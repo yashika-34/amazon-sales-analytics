@@ -1,51 +1,23 @@
-\# Amazon Sales Analytics
+# Amazon E-Commerce Sales Analytics
 
+## Project Overview
+This project analyzes 100,000 Amazon e-commerce orders to uncover sales trends, customer behavior, product performance, and operational insights.
 
+## Dataset Information
+- Records: 100,000
+- Columns: 20
 
-\## Project Overview
+## Technologies Used
+- Python
+- Pandas
+- SQL
+- Power BI
+- Git & GitHub
 
-End-to-end Data Analytics project using SQL, Python, and Power BI.
-
-
-
-\## Tech Stack
-
-\- SQL
-
-\- Python (Pandas, NumPy, Matplotlib)
-
-\- Power BI
-
-\- Excel
-
-
-
-\## Project Structure
-
-
-
-data/          -> Raw and cleaned datasets
-
-sql/           -> SQL queries
-
-notebooks/     -> Python analysis
-
-visuals/       -> Charts and graphs
-
-dashboard/     -> Power BI dashboards
-
-report/        -> Business insights report
-
-
-
-\## Objectives
-
-\- Analyze sales performance
-
-\- Identify top-selling products
-
-\- Understand customer behavior
-
-\- Generate actionable business insights
-
-"# amazon-sales-analytics" 
+## Business Objectives
+- Analyze sales performance
+- Identify top-selling categories
+- Evaluate customer purchasing trends
+- Study payment methods
+- Monitor order status performance
+- Generate actionable business insights
