@@ -28,3 +28,27 @@ This project analyzes 100,000 Amazon e-commerce orders to uncover sales trends, 
 - Charlotte generated the highest city-level revenue.
 - CoreTech was the best-performing brand.
 - Credit Card was the preferred payment method.
+# Amazon Sales Analytics Dashboard
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+
+## Project Workflow
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Business Analysis
+4. Dashboard Development
+
+## Key Insights
+- Total Revenue: 91.83M
+- Total Orders: 100K
+- Top Category: Electronics
+- Top Brand: CoreTech
+- Top City: Charlotte
+- Most Used Payment Method: Credit Card
+![Amazon Dashboard](dashboard/image.png)
+
